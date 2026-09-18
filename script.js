@@ -1,5 +1,5 @@
 const CONFIG = {
-  whatsappNumber: "393331234567", // sostituisci con il tuo numero, senza + e senza spazi
+  whatsappNumber: "393337597737", // sostituisci con il tuo numero, senza + e senza spazi
   businessName: "Tech360",
   defaultMessage: "Ciao, avrei bisogno di assistenza o consulenza informatica."
 };
