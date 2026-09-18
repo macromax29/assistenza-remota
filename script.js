@@ -1,6 +1,6 @@
 // PERSONALIZZA QUI
 const CONFIG = {
-  whatsappNumber: "393331234567", // formato internazionale senza +
+  whatsappNumber: "393337597737", // formato internazionale senza +
   businessName: "PC Help Remote",
   defaultMessage: "Ciao, avrei bisogno di assistenza informatica da remoto. Il problema è: "
 };
