@@ -1,38 +1,29 @@
-# PC Help Remote - sito statico gratuito
+# Assistenza e consulenza informatica a 360°
 
-Questa è una landing page statica pronta per essere pubblicata gratuitamente.
+Versione aggiornata del sito con:
+- problemi informatici a 360°;
+- assistenza remota;
+- consulenza per privati, professionisti e piccole attività;
+- reti, cloud, backup e sicurezza;
+- siti, automazioni e soluzioni digitali;
+- sezione "Altro problema".
 
-## Personalizzazione rapida
+## Come aggiornare il sito su GitHub Pages
 
-Apri `script.js` e modifica:
+Nel repository `assistenza-remota` sostituisci:
+- `index.html`
+- `styles.css`
+- `script.js`
 
-- `whatsappNumber`: il tuo numero WhatsApp in formato internazionale, senza `+`.
-  Esempio Italia: `393331234567`
-- `businessName`: il nome del servizio.
-- `defaultMessage`: il messaggio precompilato di WhatsApp.
+con i file presenti in questa cartella.
 
-In `index.html` puoi modificare servizi, prezzi, orari e testi.
+Prima del caricamento apri `script.js` e modifica:
+- `whatsappNumber`
+- `businessName`
+- `defaultMessage`, se vuoi.
 
-## Pubblicazione gratuita con GitHub Pages
+Il numero WhatsApp deve essere nel formato internazionale senza `+` e senza spazi.
 
-1. Crea un account GitHub, se non lo hai.
-2. Crea un nuovo repository, per esempio `assistenza-pc-remota`.
-3. Carica `index.html`, `styles.css` e `script.js`.
-4. Apri Settings > Pages.
-5. Seleziona come sorgente il branch `main`.
-6. GitHub ti fornirà un indirizzo gratuito del tipo:
-   `https://tuonome.github.io/assistenza-pc-remota/`
+Esempio: `393331234567`
 
-Puoi anche pubblicarlo gratuitamente su Cloudflare Pages o Vercel.
-
-## Prima di renderlo pubblico
-
-Controlla e personalizza:
-- nome del servizio;
-- numero WhatsApp;
-- prezzi;
-- disponibilità/orari;
-- privacy policy e informazioni fiscali applicabili alla tua situazione;
-- eventuali condizioni del servizio.
-
-Il sito non usa database, cookie di profilazione o analytics.
+Il nome `Tech360` è soltanto provvisorio.
